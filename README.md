@@ -1,6 +1,6 @@
 # ✈️ Yatrimate AI — A Multi-Agent Travel Planner with LangGraph
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20App-brightgreen?style=for-the-badge&logo=render)](https://yatrimate.onrender.com)
+
 > 🌐 **Live Demo:** [https://yatrimate.onrender.com](https://yatrimate.onrender.com)
 
 An open-source AI travel planner that turns a natural-language trip request into a practical travel plan with flight suggestions, hotel ideas, and a day-by-day itinerary. The project uses a multi-agent workflow built with LangGraph, LangChain, and FastAPI.
